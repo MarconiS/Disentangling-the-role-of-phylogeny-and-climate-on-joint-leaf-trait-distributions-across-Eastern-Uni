@@ -1,0 +1,459 @@
+search_string,ott_id,taxonID,SPCD,COMMON_NAME,SCI_NAME
+abies,994065,ABBA,10,fir spp.,Abies
+abies amabilis,876303,ABAM,11,Pacific silver fir,Abies amabilis
+abies balsamea,883527,ABBA,12,balsam fir,Abies balsamea
+abies bracteata,NA,ABBA,14,Santa Lucia or bristlecone fir,Abies bracteata
+abies concolor,NA,ABBA,15,white fir,Abies concolor
+abies fraseri,NA,ABBA,16,Fraser fir,Abies fraseri
+abies grandis,343179,ABGR,17,grand fir,Abies grandis
+abies lasiocarpa,85998,ABLAL,19,subalpine fir,Abies lasiocarpa
+abies lasiocarpa var arizonica,NA,ABBA,18,corkbark fir,Abies lasiocarpa var arizonica
+abies magnifica,924417,ABMA,20,California red fir,Abies magnifica
+abies procera,876302,ABPR,22,noble fir,Abies procera
+abies shastensis,NA,ABBA,21,Shasta red fir,Abies shastensis
+acacia,NA,ACGR,300,acacia spp.,Acacia
+acacia farnesiana,588528,ACFA,303,sweet acacia,Acacia farnesiana
+acacia greggii,444652,ACGR,304,catclaw acacia,Acacia greggii
+acer,948922,ACSA2,310,maple spp.,Acer
+acer barbatum,404485,ACBA3,311,Florida maple,Acer barbatum
+acer glabrum,266101,ACGL,321,Rocky Mountain maple,Acer glabrum
+acer grandidentatum,NA,ACSA2,322,bigtooth maple,Acer grandidentatum
+acer leucoderme,NA,ACSA2,323,chalk maple,Acer leucoderme
+acer macrophyllum,538695,ACMA3,312,bigleaf maple,Acer macrophyllum
+acer negundo,948925,ACNEN,313,boxelder,Acer negundo
+acer nigrum,NA,ACSA2,314,black maple,Acer nigrum
+acer pensylvanicum,1032032,ACPE,315,striped maple,Acer pensylvanicum
+acer platanoides,NA,ACSA2,320,Norway maple,Acer platanoides
+acer rubrum,1039827,ACRU,316,red maple,Acer rubrum
+acer saccharinum,266103,ACSA2,317,silver maple,Acer saccharinum
+acer saccharum,948916,ACSA2,318,sugar maple,Acer saccharum
+acer spicatum,NA,ACSA2,319,mountain maple,Acer spicatum
+acoelorraphe wrightii,NA,NA,906,"Everglades palm, paurotis-palm",Acoelorraphe wrightii
+aesculus,NA,AECA,330,"buckeye, horsechestnut spp.",Aesculus
+aesculus californica,788245,AECA,333,California buckeye,Aesculus californica
+aesculus flava,199581,AEFL,332,yellow buckeye,Aesculus flava
+aesculus glabra,NA,AEFL,331,Ohio buckeye,Aesculus glabra
+aesculus glabra var arguta,NA,AEFL,334,Texas buckeye,Aesculus glabra var arguta
+aesculus pavia,461734,AEPA,336,red buckeye,Aesculus pavia
+aesculus sylvatica,NA,AEFL,337,painted buckeye,Aesculus sylvatica
+ailanthus altissima,30793,AIAL,341,ailanthus,Ailanthus altissima
+albizia julibrissin,NA,NA,345,"mimosa, silktree",Albizia julibrissin
+alnus,791135,ALRU2,350,alder spp.,Alnus
+alnus glutinosa,NA,ALRU2,355,European alder,Alnus glutinosa
+alnus oblongifolia,NA,ALRU2,353,Arizona alder,Alnus oblongifolia
+alnus rhombifolia,NA,ALRU2,352,white alder,Alnus rhombifolia
+alnus rubra,639117,ALRU2,351,red alder,Alnus rubra
+amelanchier,197803,AMAR3,356,serviceberry spp.,Amelanchier
+amelanchier arborea,45829,AMAR3,357,common serviceberry,Amelanchier arborea
+amelanchier sanguinea,NA,AMAR3,358,roundleaf serviceberry,Amelanchier sanguinea
+amyris elemifera,3942532,AMEL,852,sea torchwood,Amyris elemifera
+annona glabra,NA,NA,853,pond-apple,Annona glabra
+arbutus,NA,NA,360,madrone spp.,Arbutus
+arbutus arizonica,NA,NA,362,Arizona madrone,Arbutus arizonica
+arbutus menziesii,NA,NA,361,Pacific madrone,Arbutus menziesii
+arbutus xalapensis,NA,NA,363,Texas madrone,Arbutus xalapensis
+asimina triloba,709969,ASTR,367,pawpaw,Asimina triloba
+avicennia germinans,NA,NA,986,black-mangrove,Avicennia germinans
+betula,267715,BETUL,370,birch spp.,Betula
+betula alleghaniensis,452595,BEAL2,371,yellow birch,Betula alleghaniensis
+betula lenta,567472,BELE,372,sweet birch,Betula lenta
+betula nigra,267696,BENI,373,river birch,Betula nigra
+betula occidentalis,240966,BEOC2,374,water birch,Betula occidentalis
+betula papyrifera,267725,BEPAP,375,paper birch,Betula papyrifera
+betula populifolia,46581,BEPO,379,gray birch,Betula populifolia
+betula uber,NA,BEPO,377,Virginia roundleaf birch,Betula uber
+betula x utahensis,NA,BEPO,378,northwestern paper birch,Betula x utahensis
+bursera simaruba,841945,BUSI,854,gumbo limbo,Bursera simaruba
+calocedrus decurrens,1080789,CADE27,81,incense-cedar,Calocedrus decurrens
+carpinus caroliniana,466474,CACA18,391,"American hornbeam, musclewood",Carpinus caroliniana
+carya,899021,CAIL2,400,hickory spp.,Carya
+carya alba,NA,CAIL2,409,mockernut hickory,Carya alba
+carya aquatica,3931005,CAAQ2,401,water hickory,Carya aquatica
+carya carolinae-septentrionalis,NA,CAIL2,413,southern shagbark hickory,Carya carolinae-septentrionalis
+carya cordiformis,199032,CACO15,402,bitternut hickory,Carya cordiformis
+carya floridana,NA,CAIL2,411,scrub hickory,Carya floridana
+carya glabra,NA,CAIL2,403,pignut hickory,Carya glabra
+carya illinoinensis,259040,CAIL2,404,pecan,Carya illinoinensis
+carya laciniosa,NA,CAIL2,405,shellbark hickory,Carya laciniosa
+carya myristiciformis,NA,CAIL2,406,nutmeg hickory,Carya myristiciformis
+carya ovalis,899017,CAOV3,412,red hickory,Carya ovalis
+carya ovata,1064112,CAOV2,407,shagbark hickory,Carya ovata
+carya pallida,NA,CAIL2,410,sand hickory,Carya pallida
+carya texana,NA,CAIL2,408,black hickory,Carya texana
+castanea,452591,CASTA,420,chestnut spp.,Castanea
+castanea dentata,NA,CASTA,421,American chestnut,Castanea dentata
+castanea mollissima,NA,CASTA,424,Chinese chestnut,Castanea mollissima
+castanea pumila,NA,CASTA,422,Allegheny chinkapin,Castanea pumila
+castanea pumila var ozarkensis,NA,CASTA,423,Ozark chinkapin,Castanea pumila var ozarkensis
+casuarina,NA,NA,855,sheoak spp.,Casuarina
+casuarina glauca,NA,NA,856,gray sheoak,Casuarina glauca
+casuarina lepidophloia,NA,NA,857,belah,Casuarina lepidophloia
+catalpa,NA,NA,450,catalpa spp.,Catalpa
+catalpa bignonioides,NA,NA,451,southern catalpa,Catalpa bignonioides
+catalpa speciosa,NA,NA,452,northern catalpa,Catalpa speciosa
+celtis,997898,CELTI,460,hackberry spp.,Celtis
+celtis laevigata,316089,CELA,461,sugarberry,Celtis laevigata
+celtis laevigata var reticulata,NA,CELTI,463,netleaf hackberry,Celtis laevigata var reticulata
+celtis occidentalis,74296,CEOC,462,hackberry,Celtis occidentalis
+cercis canadensis,606503,CECA4,471,eastern redbud,Cercis canadensis
+cercocarpus ledifolius,NA,NA,475,curlleaf mountain-mahogany,Cercocarpus ledifolius
+chamaecyparis,NA,NA,40,white-cedar spp.,Chamaecyparis
+chamaecyparis lawsoniana,NA,NA,41,Port-Orford-cedar,Chamaecyparis lawsoniana
+chamaecyparis nootkatensis,NA,NA,42,Alaska yellow-cedar,Chamaecyparis nootkatensis
+chamaecyparis thyoides,NA,NA,43,Atlantic white-cedar,Chamaecyparis thyoides
+chrysolepis chrysophylla var chrysophylla,NA,NA,431,"giant chinkapin, golden chinkapin",Chrysolepis chrysophylla var chrysophylla
+cinnamomum camphora,NA,NA,858,camphortree,Cinnamomum camphora
+citharexylum fruticosum,NA,NA,859,Florida fiddlewood,Citharexylum fruticosum
+citrus,NA,NA,860,citrus spp.,Citrus
+cladrastis kentukea,NA,NA,481,yellowwood,Cladrastis kentukea
+coccoloba diversifolia,780519,CODI8,863,"tietongue, pigeon-plum",Coccoloba diversifolia
+coccothrinax argentata,NA,CODI8,907,Florida silver palm,Coccothrinax argentata
+cocos nucifera,NA,NA,908,coconut palm,Cocos nucifera
+condalia hookeri,NA,NA,867,bluewood,Condalia hookeri
+conocarpus erectus,NA,NA,987,buttonwood-mangrove,Conocarpus erectus
+cordia sebestena,NA,NA,865,largeleaf geigertree,Cordia sebestena
+cornus,82463,COFL2,490,dogwood spp.,Cornus
+cornus florida,148264,COFL2,491,flowering dogwood,Cornus florida
+cornus nuttallii,889507,CONU4,492,Pacific dogwood,Cornus nuttallii
+cotinus obovatus,NA,NA,996,smoketree,Cotinus obovatus
+crataegus,842028,CRCR2,500,hawthorn spp.,Crataegus
+crataegus brainerdii,NA,CRCR2,503,Brainerd's hawthorn,Crataegus brainerdii
+crataegus calpodendron,NA,CRCR2,504,pear hawthorn,Crataegus calpodendron
+crataegus chrysocarpa,747457,CRCH,505,fireberry hawthorn,Crataegus chrysocarpa
+crataegus crus-galli,782043,CRCR2,501,cockspur hawthorn,Crataegus crus-galli
+crataegus dilatata,NA,CRCR2,506,broadleaf hawthorn,Crataegus dilatata
+crataegus flabellata,NA,CRCR2,507,fanleaf hawthorn,Crataegus flabellata
+crataegus mollis,NA,CRCR2,502,downy hawthorn,Crataegus mollis
+crataegus monogyna,NA,CRCR2,508,oneseed hawthorn,Crataegus monogyna
+crataegus pedicellata,NA,CRCR2,509,scarlet hawthorn,Crataegus pedicellata
+cupaniopsis anacardioides,NA,NA,866,carrotwood,Cupaniopsis anacardioides
+cupressus,NA,NA,50,cypress,Cupressus
+cupressus arizonica,NA,NA,51,Arizona cypress,Cupressus arizonica
+cupressus bakeri,NA,NA,52,Baker or Modoc cypress,Cupressus bakeri
+cupressus forbesii,NA,NA,53,Tecate cypress,Cupressus forbesii
+cupressus macnabiana,NA,NA,56,MacNab's cypress,Cupressus macnabiana
+cupressus macrocarpa,NA,NA,54,Monterey cypress,Cupressus macrocarpa
+cupressus sargentii,NA,NA,55,Sargent's cypress,Cupressus sargentii
+diospyros,525017,DIVI5,520,persimmon spp.,Diospyros
+diospyros texana,NA,DIVI5,522,Texas persimmon,Diospyros texana
+diospyros virginiana,525019,DIVI5,521,common persimmon,Diospyros virginiana
+ebenopsis ebano,NA,NA,868,blackbead ebony,Ebenopsis ebano
+ehretia anacua,NA,NA,523,Anacua knockaway,Ehretia anacua
+elaeagnus angustifolia,209044,ELAN,997,Russian-olive,Elaeagnus angustifolia
+eucalyptus,NA,NA,510,eucalyptus spp.,Eucalyptus
+eucalyptus camaldulensis,NA,NA,512,river redgum,Eucalyptus camaldulensis
+eucalyptus globulus,NA,NA,511,Tasmanian bluegum,Eucalyptus globulus
+eucalyptus grandis,NA,NA,513,grand eucalyptus,Eucalyptus grandis
+eucalyptus robusta,NA,NA,514,swampmahogany,Eucalyptus robusta
+eugenia rhombea,3937349,EURH,873,red stopper,Eugenia rhombea
+exothea paniculata,NA,NA,874,"butterbough, inkwood",Exothea paniculata
+fagus grandifolia,422459,FAGR,531,American beech,Fagus grandifolia
+family arecaceae not listed above,NA,NA,915,other palms,Family Arecaceae not listed above
+ficus aurea,NA,NA,876,Florida strangler fig,Ficus aurea
+ficus citrifolia,NA,NA,877,"wild banyantree, shortleaf fig",Ficus citrifolia
+fraxinus,671810,FRAM2,540,ash spp.,Fraxinus
+fraxinus americana,671807,FRAM2,541,white ash,Fraxinus americana
+fraxinus caroliniana,NA,FRAM2,548,Carolina ash,Fraxinus caroliniana
+fraxinus latifolia,NA,FRAM2,542,Oregon ash,Fraxinus latifolia
+fraxinus nigra,846444,FRNI,543,black ash,Fraxinus nigra
+fraxinus pennsylvanica,846451,FRPE,544,green ash,Fraxinus pennsylvanica
+fraxinus profunda,NA,FRAM2,545,pumpkin ash,Fraxinus profunda
+fraxinus quadrangulata,NA,FRAM2,546,blue ash,Fraxinus quadrangulata
+fraxinus texensis,NA,FRAM2,549,Texas ash,Fraxinus texensis
+fraxinus velutina,NA,FRAM2,547,velvet ash,Fraxinus velutina
+ginkgo biloba,994084,GIBI2,561,"ginkgo, maidenhair tree",Ginkgo biloba
+gleditsia,NA,GLTR,550,honeylocust spp.,Gleditsia
+gleditsia aquatica,NA,GLTR,551,waterlocust,Gleditsia aquatica
+gleditsia triacanthos,677313,GLTR,552,honeylocust,Gleditsia triacanthos
+gordonia lasianthus,313385,GOLA,555,loblolly-bay,Gordonia lasianthus
+guapira discolor,NA,NA,882,"beeftree, longleaf blolly",Guapira discolor
+gymnocladus dioicus,131674,GYDI,571,Kentucky coffeetree,Gymnocladus dioicus
+halesia,406555,HACA3,580,silverbell spp.,Halesia
+halesia carolina,250762,HACA3,581,Carolina silverbell,Halesia carolina
+halesia diptera,NA,HACA3,582,two-wing silverbell,Halesia diptera
+halesia parviflora,NA,HACA3,583,little silverbell,Halesia parviflora
+hippomane mancinella,NA,NA,883,manchineel,Hippomane mancinella
+ilex opaca,660052,ILOP,591,American holly,Ilex opaca
+juglans,1072884,JUNI,600,walnut spp.,Juglans
+juglans californica,NA,JUNI,604,southern California black walnut,Juglans californica
+juglans cinerea,NA,JUNI,601,butternut,Juglans cinerea
+juglans hindsii,NA,JUNI,603,northern California black walnut,Juglans hindsii
+juglans major,NA,JUNI,606,Arizona walnut,Juglans major
+juglans microcarpa,NA,JUNI,605,Texas walnut,Juglans microcarpa
+juglans nigra,1072887,JUNI,602,black walnut,Juglans nigra
+juniperus,836788,JUVI,57,redcedar/juniper spp.,Juniperus
+juniperus ashei,NA,JUVI,61,Ashe juniper,Juniperus ashei
+juniperus californica,NA,JUVI,62,California juniper,Juniperus californica
+juniperus coahuilensis,NA,JUVI,59,redberry juniper,Juniperus coahuilensis
+juniperus deppeana,NA,JUVI,63,alligator juniper,Juniperus deppeana
+juniperus flaccida,NA,JUVI,60,drooping juniper,Juniperus flaccida
+juniperus monosperma,NA,JUVI,69,oneseed juniper,Juniperus monosperma
+juniperus occidentalis,NA,JUVI,64,western juniper,Juniperus occidentalis
+juniperus osteosperma,335570,JUOS,65,Utah juniper,Juniperus osteosperma
+juniperus pinchotii,NA,JUNIP,58,Pinchot juniper,Juniperus pinchotii
+juniperus scopulorum,287287,JUSC2,66,Rocky Mountain juniper,Juniperus scopulorum
+juniperus virginiana,78161,JUVI,68,eastern redcedar,Juniperus virginiana
+juniperus virginiana var silicicola,NA,JUVI,67,southern redcedar,Juniperus virginiana var silicicola
+laguncularia racemosa,NA,NA,988,white-mangrove,Laguncularia racemosa
+larix,994551,LARIX,70,larch spp.,Larix
+larix laricina,NA,LARIX,71,tamarack (native),Larix laricina
+larix lyallii,NA,LARIX,72,subalpine larch,Larix lyallii
+larix occidentalis,NA,LARIX,73,western larch,Larix occidentalis
+leucaena pulverulenta,NA,NA,869,great leucaene,Leucaena pulverulenta
+liquidambar styraciflua,62530,LIST2,611,sweetgum,Liquidambar styraciflua
+liriodendron tulipifera,777299,LITU,621,yellow-poplar,Liriodendron tulipifera
+lithocarpus densiflorus,NA,NA,631,tanoak,Lithocarpus densiflorus
+lysiloma latisiliquum,NA,NA,884,false tamarind,Lysiloma latisiliquum
+maclura pomifera,658498,MAPO,641,Osage-orange,Maclura pomifera
+magnolia,288480,MAGNO,650,magnolia spp.,Magnolia
+magnolia acuminata,NA,MAGNO,651,cucumbertree,Magnolia acuminata
+magnolia fraseri,881611,MAFR,655,mountain or Fraser magnolia,Magnolia fraseri
+magnolia grandiflora,NA,MAVI2,652,southern magnolia,Magnolia grandiflora
+magnolia macrophylla,NA,MAVI2,654,bigleaf magnolia,Magnolia macrophylla
+magnolia pyramidata,NA,MAVI2,657,pyramid magnolia,Magnolia pyramidata
+magnolia tripetala,NA,MAVI2,658,umbrella magnolia,Magnolia tripetala
+magnolia virginiana,863066,MAVI2,653,sweetbay,Magnolia virginiana
+malus,NA,NA,660,apple spp.,Malus
+malus angustifolia,NA,NA,662,southern crab apple,Malus angustifolia
+malus coronaria,NA,NA,663,sweet crab apple,Malus coronaria
+malus fusca,NA,NA,661,Oregon crab apple,Malus fusca
+malus ioensis,NA,NA,664,prairie crab apple,Malus ioensis
+mangifera indica,807634,MAIN3,885,mango,Mangifera indica
+melaleuca quinquenervia,NA,NA,992,melaleuca,Melaleuca quinquenervia
+melia azedarach,916052,MEAZ,993,chinaberry,Melia azedarach
+metopium toxiferum,NA,NA,886,Florida poisontree,Metopium toxiferum
+morus,658501,MOAL,680,mulberry spp.,Morus
+morus alba,658488,MOAL,681,white mulberry,Morus alba
+morus microphylla,NA,MOAL,683,Texas mulberry,Morus microphylla
+morus nigra,NA,MOAL,684,black mulberry,Morus nigra
+morus rubra,259037,MORU2,682,red mulberry,Morus rubra
+nyssa,671008,NYAQ2,690,tupelo spp.,Nyssa
+nyssa aquatica,228108,NYAQ2,691,water tupelo,Nyssa aquatica
+nyssa biflora,3900086,NYBI,694,swamp tupelo,Nyssa biflora
+nyssa ogeche,NA,NYAQ2,692,Ogeechee tupelo,Nyssa ogeche
+nyssa sylvatica,671013,NYSY,693,blackgum,Nyssa sylvatica
+olneya tesota,NA,NA,990,desert ironwood,Olneya tesota
+ostrya virginiana,747780,OSVI,701,eastern hophornbeam,Ostrya virginiana
+oxydendrum arboreum,1042565,OXAR,711,sourwood,Oxydendrum arboreum
+paulownia tomentosa,305916,PATO2,712,"paulownia, empress-tree",Paulownia tomentosa
+persea,NA,NA,720,bay spp.,Persea
+persea borbonia,913253,PEBO,721,redbay,Persea borbonia
+picea,517942,PIAB,90,spruce spp.,Picea
+picea abies,517943,PIAB,91,Norway spruce,Picea abies
+picea breweriana,NA,PIAB,92,Brewer spruce,Picea breweriana
+picea engelmannii,248427,PIEN,93,Engelmann spruce,Picea engelmannii
+picea glauca,771681,PIGL,94,white spruce,Picea glauca
+picea mariana,363879,PIMA,95,black spruce,Picea mariana
+picea pungens,NA,PIAB,96,blue spruce,Picea pungens
+picea rubens,771655,PIRU,97,red spruce,Picea rubens
+picea sitchensis,NA,PICEA,98,Sitka spruce,Picea sitchensis
+pinus,771683,PIEC2,100,pine spp.,Pinus
+pinus albicaulis,NA,PIEC2,101,whitebark pine,Pinus albicaulis
+pinus aristata,NA,PIEC2,102,Rocky Mountain bristlecone pine,Pinus aristata
+pinus arizonica,NA,PIEC2,135,Arizona pine,Pinus arizonica
+pinus attenuata,NA,PIEC2,103,knobcone pine,Pinus attenuata
+pinus balfouriana,NA,PIEC2,104,foxtail pine,Pinus balfouriana
+pinus banksiana,NA,PIEC2,105,jack pine,Pinus banksiana
+pinus cembroides,NA,PIEC2,140,Mexican pinyon pine,Pinus cembroides
+pinus clausa,217118,PICL,107,sand pine,Pinus clausa
+pinus contorta,1044477,PICOL,108,lodgepole pine,Pinus contorta
+pinus coulteri,NA,PIEC2,109,Coulter pine,Pinus coulteri
+pinus discolor,NA,PIEC2,134,border pinyon,Pinus discolor
+pinus echinata,212461,PIEC2,110,shortleaf pine,Pinus echinata
+pinus edulis,568629,PIED,106,common or two-needle pinyon,Pinus edulis
+pinus elliottii,245809,PIEL,111,slash pine,Pinus elliottii
+pinus elliottii var elliottii,NA,PIEC2,144,Honduras pine,Pinus elliottii var elliottii
+pinus engelmannii,NA,PIEC2,112,Apache pine,Pinus engelmannii
+pinus flexilis,799605,PIFL2,113,limber pine,Pinus flexilis
+pinus glabra,104516,PIGL2,115,spruce pine,Pinus glabra
+pinus jeffreyi,736886,PIJE,116,Jeffrey pine,Pinus jeffreyi
+pinus lambertiana,568626,PILA,117,sugar pine,Pinus lambertiana
+pinus leiophylla,NA,PIEC2,118,Chihuahuan pine,Pinus leiophylla
+pinus longaeva,NA,PIEC2,142,Great Basin bristlecone pine,Pinus longaeva
+pinus monophylla,NA,PIEC2,133,singleleaf pinyon,Pinus monophylla
+pinus monophylla var fallax,NA,PIEC2,143,Arizona pinyon pine,Pinus monophylla var fallax
+pinus monticola,568650,PIMO3,119,western white pine,Pinus monticola
+pinus muricata,NA,PIEC2,120,bishop pine,Pinus muricata
+pinus nigra,NA,PIEC2,136,Austrian pine,Pinus nigra
+pinus palustris,351667,PIPA2,121,longleaf pine,Pinus palustris
+pinus ponderosa,736900,PIPO,122,ponderosa pine,Pinus ponderosa
+pinus pungens,636901,PIPU5,123,Table Mountain pine,Pinus pungens
+pinus quadrifolia,NA,PIEC2,138,four-leaf or Parry pinyon pine,Pinus quadrifolia
+pinus radiata,NA,PIEC2,124,Monterey pine,Pinus radiata
+pinus remota,NA,PIEC2,141,papershell pinyon pine,Pinus remota
+pinus resinosa,NA,PIEC2,125,red pine,Pinus resinosa
+pinus rigida,636907,PIRI,126,pitch pine,Pinus rigida
+pinus sabiniana,113478,PISA2,127,gray or California foothill pine,Pinus sabiniana
+pinus serotina,NA,PIEC2,128,pond pine,Pinus serotina
+pinus strobiformis,NA,PIEC2,114,southwestern white pine,Pinus strobiformis
+pinus strobus,568616,PIST,129,eastern white pine,Pinus strobus
+pinus sylvestris,NA,PIEC2,130,Scotch pine,Pinus sylvestris
+pinus taeda,1075736,PITA,131,loblolly pine,Pinus taeda
+pinus torreyana,NA,PIEC2,139,Torrey pine,Pinus torreyana
+pinus virginiana,263433,PIVI2,132,Virginia pine,Pinus virginiana
+pinus washoensis,NA,PIEC2,137,Washoe pine,Pinus washoensis
+piscidia piscipula,NA,PIEC2,887,fishpoison tree,Piscidia piscipula
+planera aquatica,4729846,PLAQ,722,"water-elm, planertree",Planera aquatica
+platanus,NA,PLOC,729,sycamore spp.,Platanus
+platanus occidentalis,62543,PLOC,731,American sycamore,Platanus occidentalis
+platanus racemosa,NA,PLOC,730,California sycamore,Platanus racemosa
+platanus wrightii,NA,PLOC,732,Arizona sycamore,Platanus wrightii
+populus,530178,PODE3,740,cottonwood and poplar spp.,Populus
+populus alba,NA,PODE3,752,silver poplar,Populus alba
+populus angustifolia,NA,PODE3,749,narrowleaf cottonwood,Populus angustifolia
+populus balsamifera,374288,POBA2,741,balsam poplar,Populus balsamifera
+populus balsamifera ssp trichocarpa,NA,PODE3,747,black cottonwood,Populus balsamifera ssp trichocarpa
+populus deltoides,8867,PODE3,742,eastern cottonwood,Populus deltoides
+populus deltoides ssp monilifera,NA,PODE3,745,plains cottonwood,Populus deltoides ssp monilifera
+populus fremontii,NA,PODE3,748,Fremont cottonwood,Populus fremontii
+populus grandidentata,1035526,POGR4,743,bigtooth aspen,Populus grandidentata
+populus heterophylla,NA,PODE3,744,swamp cottonwood,Populus heterophylla
+populus nigra,NA,PODE3,753,Lombardy poplar,Populus nigra
+populus tremuloides,8858,POTR5,746,quaking aspen,Populus tremuloides
+prosopis,NA,PRGL2,755,mesquite spp.,Prosopis
+prosopis glandulosa,316099,PRGL2,756,honey mesquite,Prosopis glandulosa
+prosopis pubescens,NA,PRGL2,758,screwbean mesquite,Prosopis pubescens
+prosopis velutina,66193,PRVE,757,velvet mesquite,Prosopis velutina
+prunus,731578,PRAN3,760,cherry and plum spp.,Prunus
+prunus alleghaniensis,NA,PRAN3,769,Allegheny plum,Prunus alleghaniensis
+prunus americana,67001,PRAM,766,American plum,Prunus americana
+prunus angustifolia,66998,PRAN3,770,Chickasaw plum,Prunus angustifolia
+prunus avium,162547,PRAV,771,"sweet cherry, domesticated",Prunus avium
+prunus cerasus,NA,PRAN3,772,"sour cherry, domesticated",Prunus cerasus
+prunus domestica,NA,PRAN3,773,"European plum, domesticated",Prunus domestica
+prunus emarginata,156922,PREM,768,bitter cherry,Prunus emarginata
+prunus mahaleb,NA,PRAN3,774,"Mahaleb cherry, domesticated",Prunus mahaleb
+prunus nigra,NA,PRAN3,765,Canada plum,Prunus nigra
+prunus pensylvanica,180915,PRPE2,761,pin cherry,Prunus pensylvanica
+prunus persica,NA,PRAN3,764,peach,Prunus persica
+prunus serotina,187948,PRSE2,762,black cherry,Prunus serotina
+prunus virginiana,769156,PRVI,763,chokecherry,Prunus virginiana
+pseudotsuga,NA,PSME,200,Douglas-fir spp.,Pseudotsuga
+pseudotsuga macrocarpa,NA,PSME,201,bigcone Douglas-fir,Pseudotsuga macrocarpa
+pseudotsuga menziesii,1075713,PSME,202,Douglas-fir,Pseudotsuga menziesii
+quercus,791121,QUDO,800,oak spp.,Quercus
+quercus agrifolia,NA,QUDO,801,California live oak,Quercus agrifolia
+quercus alba,791112,QUAL,802,white oak,Quercus alba
+quercus arizonica,NA,QUDO,803,Arizona white oak,Quercus arizonica
+quercus bicolor,NA,QUDO,804,swamp white oak,Quercus bicolor
+quercus buckleyi,NA,QUDO,8513,Buckley oak,Quercus buckleyi
+quercus chrysolepis,403389,QUCH2,805,canyon live oak,Quercus chrysolepis
+quercus coccinea,494536,QUCO2,806,scarlet oak,Quercus coccinea
+quercus douglasii,3930798,QUDO,807,blue oak,Quercus douglasii
+quercus ellipsoidalis,NA,QUDO,809,northern pin oak,Quercus ellipsoidalis
+quercus emoryi,NA,QUDO,810,Emory oak,Quercus emoryi
+quercus engelmannii,NA,QUDO,811,Engelmann oak,Quercus engelmannii
+quercus falcata,826988,QUFA,812,southern red oak,Quercus falcata
+quercus gambelii,NA,QUDO,814,Gambel oak,Quercus gambelii
+quercus garryana,NA,QUDO,815,Oregon white oak,Quercus garryana
+quercus graciliformis,NA,QUDO,851,Chisos oak,Quercus graciliformis
+quercus gravesii,NA,QUDO,8511,Graves oak,Quercus gravesii
+quercus grisea,NA,QUDO,846,gray oak,Quercus grisea
+quercus hypoleucoides,NA,QUDO,843,silverleaf oak,Quercus hypoleucoides
+quercus ilicifolia,NA,QUDO,816,scrub oak,Quercus ilicifolia
+quercus imbricaria,NA,QUDO,817,shingle oak,Quercus imbricaria
+quercus incana,833753,QUIN,842,bluejack oak,Quercus incana
+quercus kelloggii,403375,QUKE,818,California black oak,Quercus kelloggii
+quercus laceyi,3930492,QULA,8514,Lacey oak,Quercus laceyi
+quercus laevis,826983,QULA2,819,turkey oak,Quercus laevis
+quercus laurifolia,691464,QULA3,820,laurel oak,Quercus laurifolia
+quercus lobata,NA,QUDO,821,California white oak,Quercus lobata
+quercus lyrata,432818,QULY,822,overcup oak,Quercus lyrata
+quercus macrocarpa,37377,QUMA2,823,bur oak,Quercus macrocarpa
+quercus margarettiae,NA,QUDO,840,dwarf post oak,Quercus margarettiae
+quercus marilandica,137331,QUMA3,824,blackjack oak,Quercus marilandica
+quercus michauxii,117129,QUMI,825,swamp chestnut oak,Quercus michauxii
+quercus minima,117134,QUMI2,841,dwarf live oak,Quercus minima
+quercus muehlenbergii,3930736,QUMU,826,chinkapin oak,Quercus muehlenbergii
+quercus nigra,691458,QUNI,827,water oak,Quercus nigra
+quercus oblongifolia,NA,QUDO,829,Mexican blue oak,Quercus oblongifolia
+quercus oglethorpensis,NA,QUDO,844,Oglethorpe oak,Quercus oglethorpensis
+quercus pagoda,3930946,QUPA5,813,cherrybark oak,Quercus pagoda
+quercus palustris,NA,QUDO,830,pin oak,Quercus palustris
+quercus phellos,3930710,QUPH,831,willow oak,Quercus phellos
+quercus polymorpha,NA,QUDO,8512,Mexican white oak,Quercus polymorpha
+quercus prinoides,NA,QUDO,845,dwarf chinkapin oak,Quercus prinoides
+quercus prinus,NA,QUDO,832,chestnut oak,Quercus prinus
+quercus rubra,791115,QURU,833,northern red oak,Quercus rubra
+quercus rugosa,NA,QUDO,847,netleaf oak,Quercus rugosa
+quercus shumardii,691478,QUSH,834,Shumard oak,Quercus shumardii
+quercus similis,NA,QUDO,836,Delta post oak,Quercus similis
+quercus sinuata var sinuata,NA,QUDO,808,Durand oak,Quercus sinuata var sinuata
+quercus stellata,316112,QUST,835,post oak,Quercus stellata
+quercus texana,NA,QUDO,828,Texas red oak,Quercus texana
+quercus velutina,581813,QUVE,837,black oak,Quercus velutina
+quercus virginiana,272703,QUVI,838,live oak,Quercus virginiana
+quercus wislizeni,470257,QUWI2,839,interior live oak,Quercus wislizeni
+rhizophora mangle,NA,NA,989,American mangrove,Rhizophora mangle
+robinia neomexicana,NA,ROPS,902,New Mexico locust,Robinia neomexicana
+robinia pseudoacacia,928416,ROPS,901,black locust,Robinia pseudoacacia
+roystonea,NA,NA,909,royal palm spp.,Roystonea
+sabal mexicana,NA,NA,911,Mexican palmetto,Sabal mexicana
+sabal palmetto,NA,NA,912,cabbage palmetto,Sabal palmetto
+salix,458856,SABE2,920,willow spp.,Salix
+salix alba,NA,SABE2,927,white willow,Salix alba
+salix amygdaloides,NA,SABE2,921,peachleaf willow,Salix amygdaloides
+salix bebbiana,164207,SABE2,923,Bebb willow,Salix bebbiana
+salix bonplandiana,NA,SABE2,924,Bonpland willow,Salix bonplandiana
+salix caroliniana,NA,SABE2,925,coastal plain willow,Salix caroliniana
+salix nigra,NA,SABE2,922,black willow,Salix nigra
+salix pyrifolia,NA,SABE2,926,balsam willow,Salix pyrifolia
+salix scouleriana,3915144,SASC,928,Scouler's willow,Salix scouleriana
+salix sepulcralis,NA,SABE2,929,weeping willow,Salix sepulcralis
+sapindus saponaria var drummondii,NA,NA,919,western soapberry,Sapindus saponaria var drummondii
+sassafras albidum,998890,SAAL5,931,sassafras,Sassafras albidum
+schefflera actinophylla,NA,NA,888,"octopus tree, schefflera",Schefflera actinophylla
+sequoia sempervirens,NA,NA,211,redwood,Sequoia sempervirens
+sequoiadendron giganteum,NA,NA,212,giant sequoia,Sequoiadendron giganteum
+sideroxylon foetidissimum,NA,SISA6,890,false mastic,Sideroxylon foetidissimum
+sideroxylon lanuginosum ssp lanuginosum,NA,SISA6,381,"chittamwood, gum bumelia",Sideroxylon lanuginosum ssp lanuginosum
+sideroxylon salicifolium,1077717,SISA6,891,"white bully, willow bustic",Sideroxylon salicifolium
+simarouba glauca,NA,NA,895,paradisetree,Simarouba glauca
+sophora affinis,NA,NA,870,Texas sophora,Sophora affinis
+sorbus,489718,SOAM3,934,mountain-ash spp.,Sorbus
+sorbus americana,667058,SOAM3,935,American mountain-ash,Sorbus americana
+sorbus aucuparia,NA,SOAM3,936,European mountain-ash,Sorbus aucuparia
+sorbus decora,NA,SOAM3,937,northern mountain-ash,Sorbus decora
+swietenia mahagoni,383061,SWMA2,940,West Indian mahogany,Swietenia mahagoni
+syzygium cumini,NA,NA,896,Java plum,Syzygium cumini
+tamarindus indica,NA,NA,897,tamarind,Tamarindus indica
+tamarix,NA,NA,991,saltcedar,Tamarix
+taxodium,NA,TADI2,220,baldcypress spp.,Taxodium
+taxodium ascendens,NA,TADI2,222,pondcypress,Taxodium ascendens
+taxodium distichum,538146,TADI2,221,baldcypress,Taxodium distichum
+taxodium mucronatum,NA,TADI2,223,Montezuma baldcypress,Taxodium mucronatum
+taxus,684213,TABR2,230,yew spp.,Taxus
+taxus brevifolia,667265,TABR2,231,Pacific yew,Taxus brevifolia
+taxus floridana,NA,TABR2,232,Florida yew,Taxus floridana
+thrinax morrisii,NA,NA,913,key thatch palm,Thrinax morrisii
+thrinax radiata,NA,NA,914,Florida thatch palm,Thrinax radiata
+thuja,994095,THPL,240,thuja spp.,Thuja
+thuja occidentalis,NA,THPL,241,northern white-cedar,Thuja occidentalis
+thuja plicata,463725,THPL,242,western redcedar,Thuja plicata
+tilia,NA,TIAM,950,basswood spp.,Tilia
+tilia americana,770764,TIAM,951,American basswood,Tilia americana
+tilia americana var caroliniana,NA,TIAM,953,Carolina basswood,Tilia americana var caroliniana
+tilia americana var heterophylla,NA,TIAM,952,white basswood,Tilia americana var heterophylla
+torreya,NA,NA,250,torreya (nutmeg) spp.,Torreya
+torreya californica,NA,NA,251,California torreya (nutmeg),Torreya californica
+torreya taxifolia,NA,NA,252,Florida torreya (nutmeg),Torreya taxifolia
+tree broadleaf,NA,NA,998,Unknown dead hardwood,Tree broadleaf
+tree evergreen,NA,NA,299,Unknown dead conifer,Tree evergreen
+tree unknown,NA,NA,999,Other or unknown live tree,Tree unknown
+triadica sebifera,363561,TRSE6,994,Chinese tallowtree,Triadica sebifera
+tsuga,NA,TSCA,260,hemlock spp.,Tsuga
+tsuga canadensis,117276,TSCA,261,eastern hemlock,Tsuga canadensis
+tsuga caroliniana,NA,TSCA,262,Carolina hemlock,Tsuga caroliniana
+tsuga heterophylla,1095217,TSHE,263,western hemlock,Tsuga heterophylla
+tsuga mertensiana,NA,TSCA,264,mountain hemlock,Tsuga mertensiana
+ulmus,94969,ULMUS,970,elm spp.,Ulmus
+ulmus alata,94971,ULAL,971,winged elm,Ulmus alata
+ulmus americana,706094,ULAM,972,American elm,Ulmus americana
+ulmus crassifolia,316102,ULCR,973,cedar elm,Ulmus crassifolia
+ulmus pumila,1011372,ULPU,974,Siberian elm,Ulmus pumila
+ulmus rubra,316093,ULRU,975,slippery elm,Ulmus rubra
+ulmus serotina,NA,ULRU,976,September elm,Ulmus serotina
+ulmus thomasii,NA,ULRU,977,rock elm,Ulmus thomasii
+umbellularia californica,NA,NA,981,California-laurel,Umbellularia californica
+vernicia fordii,NA,NA,995,tungoil tree,Vernicia fordii
+yucca brevifolia,NA,NA,982,Joshua tree,Yucca brevifolia
